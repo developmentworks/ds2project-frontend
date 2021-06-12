@@ -1,10 +1,10 @@
 import React from 'react';
-import {Header} from './components/Header'
+import {NavHeader} from './components/Header'
 
 function App() {
   return (
     <div className="App">
-    <Header/>
+    <NavHeader/>
     <h1>Eco Poupex</h1>
     </div>
   );
